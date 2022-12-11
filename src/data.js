@@ -5,7 +5,7 @@ const reviews = [
     job: "web developer",
     image:
       "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1000&q=60",
-    text: "I am very Much Excited To Learn New Technologies From FreeCodeCamp and from other Resources using Internet",
+    text: "I am very Much Excited To Learn New Technologies From FreeCodeCamp",
   },
   {
     id: 2,
